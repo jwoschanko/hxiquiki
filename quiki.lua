@@ -1,4 +1,4 @@
-addon.author = "MisterZimbu"
+addon.author = "Biffkneepuncher"
 addon.name = "Quiki"
 addon.version = "1.0"
 addon.desc = "Provides a quick command line interface to access the Horizon FFXI wiki."
